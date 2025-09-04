@@ -90,9 +90,8 @@ main {
     border-radius: 50px;
 }
 
-
-        <section class="bistecone_3">,
- {
+bistecone_1,
+bistecone_3 {
     width: 138px;
     height: 137px;
     object-fit: cover;
